@@ -3,7 +3,7 @@
 ## Overview
 This repository contains an interactive business intelligence dashboard built using **Power BI Desktop** for Task 3 of the Swynex Technology Data Analytics Internship. The dashboard provides clear, dynamic insights into cafe operational performance, revenue drivers, sales channel distribution, and payment behavior.
 
-![Power BI Interactive Dashboard](images/dashboard_view.png)
+![cafe-sales-interactive-dashboard](images/dashboard_view.png)
 
 ---
 
